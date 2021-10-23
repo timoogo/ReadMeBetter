@@ -20,7 +20,7 @@ Il est donc assez apprécié dans les domaines scientifiques, pour faire de la d
 
 Vous trouverez un exemple de notes ci-dessous :
 
-<img src"https://ibb.co/MsFGpSj" alt="screenshot d'une note d'anglais"/>
+<img src"https://github.com/timoogo/ReadMeBetter/blob/ee2e72b5923d54fab7145ae0c94492f8da353060/images/screencapture-stackedit-io-app-2021-10-21-09_18_45%201.png" alt="screenshot d'une note d'anglais"/>
 *<center>A gauche, du markdown, à droite, ce que ça donne</center>*
 
 ## Un peu d'histoire 
@@ -78,7 +78,7 @@ Chacune de mes notes de cours d'anglais se compose de la manière suivante :
 
 </details>
 
-<img src="https://ibb.co/gtnT5TX">
+<img src="https://github.com/timoogo/ReadMeBetter/blob/ee2e72b5923d54fab7145ae0c94492f8da353060/images/Markdown-preview.png">
 
 Cela me permet de séparer les exercices sur une seule page, sans avoir a faire plusieurs fichiers.
 Les mots en gras (comme sur le screenshot) sont des mots de vocabulaires que j'ai considéré comme important durant la séance.
