@@ -20,7 +20,7 @@ Il est donc assez apprécié dans les domaines scientifiques, pour faire de la d
 
 Vous trouverez un exemple de notes ci-dessous :
 
-<img src"https://github.com/timoogo/ReadMeBetter/blob/ee2e72b5923d54fab7145ae0c94492f8da353060/images/screencapture-stackedit-io-app-2021-10-21-09_18_45%201.png" alt="screenshot d'une note d'anglais"/>
+<img src="https://github.com/timoogo/ReadMeBetter/blob/559a71cdc2d5582c71eeac161edf7d70516586cb/images/Markdown-preview.png"/>
 *<center>A gauche, du markdown, à droite, ce que ça donne</center>*
 
 ## Un peu d'histoire 
