@@ -237,10 +237,11 @@ GitHub arrive a comprendre les emoji! :+1: :sparkles: :camel: :tada: :rocket: :m
     </summary>
     Du contenu caché
 </details>
+	
 #### Recommendations
 - Pour démarer, [BoostNotes](https://boostnote.io/) est une application simple pour prendre des notes et les visualiser.
 	
-- J'ai récement découvert [ObsidianMD](https://obsidian.md/), c'est un gestionnaire de notes markdown. On retrouve ainsi les notes avec les liens internes, un point fort d’Obsidian qui peut ainsi fonctionner comme un wiki personnel. L’app suggère automatiquement les autres notes pour créer un lien, ou vous pouvez ajouter un lien et créer une note à la suite. Pour visualiser tous ces liens, on retrouve aussi la barre latérale de droite qui les liste pour la note en cours, mais également le nuage de points, une fonction spécifique de l’app. Ajoutez à cela la barre latérale de gauche pour lister les notes et vous obtenez une interface touffue, qui nécessite quelques minutes d’adaptation.
+- J'ai récement découvert [ObsidianMD](https://obsidian.md/), c'est un gestionnaire de notes markdown. On retrouve ainsi les notes avec les liens internes, un point fort d’Obsidian qui peut ainsi fonctionner comme un wiki personnel. L’app suggère automatiquement les autres notes pour créer un lien, ou je peux ajouter un lien et créer une note à la suite. Pour visualiser tous ces liens, je vais dans la barre latérale de droite qui les liste pour la note en cours, mais également le nuage de points, une fonction spécifique de l’app. La barre latérale de gauche pour lister les notes et vous obtenez une interface touffue, qui nécessite quelques minutes d’adaptation.
 
 ## Conclusion
 Comme nous venons de le voir, il est possible de faire beaucoup de choses avec le markdown. En plus, les outils se développent et permettent de s'organiser de plus en plus. 
