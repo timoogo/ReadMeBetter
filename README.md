@@ -78,7 +78,7 @@ Chacune de mes notes de cours d'anglais se compose de la manière suivante :
 
 </details>
 
-<img src="https://github.com/timoogo/ReadMeBetter/blob/ee2e72b5923d54fab7145ae0c94492f8da353060/images/Markdown-preview.png">
+<img src="https://github.com/timoogo/ReadMeBetter/blob/524385b543713796c7ae7d32e2b5497435f7b485/images/screencapture-stackedit-io-app-2021-10-21-09_18_45%201.png">
 
 Cela me permet de séparer les exercices sur une seule page, sans avoir a faire plusieurs fichiers.
 Les mots en gras (comme sur le screenshot) sont des mots de vocabulaires que j'ai considéré comme important durant la séance.
